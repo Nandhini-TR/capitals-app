@@ -1,0 +1,38 @@
+.bg-container {
+  background-color: #93c5fd;
+  height: 100vh;
+  background-size: cover;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.card-container {
+  border-radius: 10px;
+  background-color: #f8fafc;
+  height: 40%;
+  width: 80%;
+}
+
+.heading {
+  padding: 20px;
+  font-size: 26px;
+  color: #000000;
+  font-weight: bold;
+}
+
+.question {
+  font-size: 20px;
+  padding-left: 10px;
+}
+.list-box{
+  padding: 8px;
+  font-size: 16px;
+  margin-right: 8px;
+  border: 1px solid #cbd2d9;
+  border-radius: 4px;
+  margin-left: 20px;
+}
+.country {
+  margin-left: 20px;
+}
